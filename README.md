@@ -1,4 +1,4 @@
-# React simple To-Do App
+# React simple tasks-list app
 
 This is a simple to-do app built with React. It allows users to create, update, and delete tasks in a to-do list.
 
